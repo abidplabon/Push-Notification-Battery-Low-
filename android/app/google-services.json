@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197300811067",
+    "project_id": "pushnotification-e57f5",
+    "storage_bucket": "pushnotification-e57f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197300811067:android:6bdfcadfcca7a12c86331e",
+        "android_client_info": {
+          "package_name": "com.example.battery_low"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa_s9g-MUBr56CgpCTN6OK2YFWcH0Ly6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
